@@ -1,0 +1,6 @@
+D:\Projelerim\2016\MatrixRain\MatrixRain\bin\Debug\MatrixRain.exe.config
+D:\Projelerim\2016\MatrixRain\MatrixRain\bin\Debug\MatrixRain.exe
+D:\Projelerim\2016\MatrixRain\MatrixRain\bin\Debug\MatrixRain.pdb
+D:\Projelerim\2016\MatrixRain\MatrixRain\obj\Debug\MatrixRain.csprojResolveAssemblyReference.cache
+D:\Projelerim\2016\MatrixRain\MatrixRain\obj\Debug\MatrixRain.exe
+D:\Projelerim\2016\MatrixRain\MatrixRain\obj\Debug\MatrixRain.pdb
